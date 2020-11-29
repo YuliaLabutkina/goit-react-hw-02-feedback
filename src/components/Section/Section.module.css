@@ -1,0 +1,17 @@
+.wrapper {
+  background-color: #b0e0e6;
+  width: 320px;
+  margin: 20px auto;
+  padding: 20px 8px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.15), 0 10px 10px rgba(0, 0, 0, 0.12);
+  transition: transform 400ms linear, box-shadow 200ms linear;
+}
+
+.wrapper:hover {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.35), 0 10px 10px rgba(0, 0, 0, 0.32);
+}
+
+.title {
+  color: #778899;
+  text-align: center;
+}
